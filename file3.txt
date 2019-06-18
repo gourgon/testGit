@@ -1,1 +1,2 @@
-Ceci est la pharse d emon troisième fichier.
+Ceci est la pharse de mon troisième fichier.
+Mais en fait j'aimerais écrire un poème...
